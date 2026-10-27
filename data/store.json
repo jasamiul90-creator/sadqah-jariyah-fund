@@ -1,0 +1,257 @@
+{
+  "profiles": [
+    {
+      "full_name": "Md Samiul Islam",
+      "email": "admin@sadqahfund.org",
+      "role": "admin",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-1",
+      "auth_user_id": "admin-auth-id",
+      "created_at": "2026-10-02T15:29:06.479Z"
+    },
+    {
+      "full_name": "Arkan Samim",
+      "email": "arkan.samim@sadqahfund.org",
+      "role": "committee",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-2",
+      "auth_user_id": "user-auth-2",
+      "created_at": "2026-10-03T15:29:06.480Z"
+    },
+    {
+      "full_name": "Md Abdur Razzak",
+      "email": "abdur.razzak@sadqahfund.org",
+      "role": "committee",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-3",
+      "auth_user_id": "user-auth-3",
+      "created_at": "2026-10-04T15:29:06.480Z"
+    },
+    {
+      "full_name": "Riaz Razu",
+      "email": "riaz.razu@sadqahfund.org",
+      "role": "committee",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-4",
+      "auth_user_id": "user-auth-4",
+      "created_at": "2026-10-05T15:29:06.480Z"
+    },
+    {
+      "full_name": "Azijul Asif",
+      "email": "azijul.asif@sadqahfund.org",
+      "role": "committee",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-5",
+      "auth_user_id": "user-auth-5",
+      "created_at": "2026-10-06T15:29:06.480Z"
+    },
+    {
+      "full_name": "Abu Sayed",
+      "email": "abu.sayed@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-6",
+      "auth_user_id": "user-auth-6",
+      "created_at": "2026-10-07T15:29:06.480Z"
+    },
+    {
+      "full_name": "Md.Monjurul Islam",
+      "email": "monjurul.islam@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-7",
+      "auth_user_id": "user-auth-7",
+      "created_at": "2026-10-08T15:29:06.480Z"
+    },
+    {
+      "full_name": "Md. Saju Islam",
+      "email": "saju.islam@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-8",
+      "auth_user_id": "user-auth-8",
+      "created_at": "2026-10-09T15:29:06.480Z"
+    },
+    {
+      "full_name": "Shintaj Jaman Shin",
+      "email": "shintaj.jaman@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-9",
+      "auth_user_id": "user-auth-9",
+      "created_at": "2026-10-10T15:29:06.480Z"
+    },
+    {
+      "full_name": "Rifat Khandaker",
+      "email": "rifat.khandaker@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-10",
+      "auth_user_id": "user-auth-10",
+      "created_at": "2026-10-11T15:29:06.480Z"
+    },
+    {
+      "full_name": "Md.Rokon Mia",
+      "email": "rokon.mia@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-11",
+      "auth_user_id": "user-auth-11",
+      "created_at": "2026-10-12T15:29:06.480Z"
+    },
+    {
+      "full_name": "Md. Rabby Islam",
+      "email": "rabby.islam@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-12",
+      "auth_user_id": "user-auth-12",
+      "created_at": "2026-10-13T15:29:06.480Z"
+    },
+    {
+      "full_name": "Md.Tanvir Zaman Ratul",
+      "email": "tanvir.ratul@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-13",
+      "auth_user_id": "user-auth-13",
+      "created_at": "2026-10-14T15:29:06.480Z"
+    },
+    {
+      "full_name": "MD ABDUR ROSHID",
+      "email": "abdur.roshid@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-14",
+      "auth_user_id": "user-auth-14",
+      "created_at": "2026-10-15T15:29:06.480Z"
+    },
+    {
+      "full_name": "MD. Rakibuzzaman",
+      "email": "rakibuzzaman@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-15",
+      "auth_user_id": "user-auth-15",
+      "created_at": "2026-10-16T15:29:06.480Z"
+    },
+    {
+      "full_name": "Md. Mostafizer (Mithu)",
+      "email": "mostafizer.mithu@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-16",
+      "auth_user_id": "user-auth-16",
+      "created_at": "2026-10-17T15:29:06.480Z"
+    },
+    {
+      "full_name": "Md. Hamidul Islam",
+      "email": "hamidul.islam@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-17",
+      "auth_user_id": "user-auth-17",
+      "created_at": "2026-10-18T15:29:06.480Z"
+    },
+    {
+      "full_name": "সুমি হাসান",
+      "email": "sumi.hasan@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-18",
+      "auth_user_id": "user-auth-18",
+      "created_at": "2026-10-19T15:29:06.480Z"
+    },
+    {
+      "full_name": "MD Shakib Khandoker",
+      "email": "shakib.khandoker@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-19",
+      "auth_user_id": "user-auth-19",
+      "created_at": "2026-10-20T15:29:06.480Z"
+    },
+    {
+      "full_name": "Md. Motiur Rahman",
+      "email": "motiur.rahman@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-20",
+      "auth_user_id": "user-auth-20",
+      "created_at": "2026-10-21T15:29:06.480Z"
+    },
+    {
+      "full_name": "Md. Arif khan",
+      "email": "arif.khan@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-21",
+      "auth_user_id": "user-auth-21",
+      "created_at": "2026-10-22T15:29:06.480Z"
+    },
+    {
+      "full_name": "Md. Mehedi hasan",
+      "email": "mehedi.hasan@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-22",
+      "auth_user_id": "user-auth-22",
+      "created_at": "2026-10-23T15:29:06.480Z"
+    },
+    {
+      "full_name": "মো জাকির হোসেন জামিল",
+      "email": "zakir.jamil@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-23",
+      "auth_user_id": "user-auth-23",
+      "created_at": "2026-10-24T15:29:06.480Z"
+    },
+    {
+      "full_name": "মোঃ রাসেল মিয়া",
+      "email": "rasel.mia@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-24",
+      "auth_user_id": "user-auth-24",
+      "created_at": "2026-10-25T15:29:06.480Z"
+    },
+    {
+      "full_name": "Abdul Auwal",
+      "email": "abdul.auwal@sadqahfund.org",
+      "role": "member",
+      "monthly_contribution": 0,
+      "member_status": "active",
+      "id": "member-25",
+      "auth_user_id": "user-auth-25",
+      "created_at": "2026-10-26T15:29:06.480Z"
+    }
+  ],
+  "contributions": [],
+  "expenses": [],
+  "auditLogs": []
+}
